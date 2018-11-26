@@ -2,7 +2,7 @@
 
 XYZ
 
-[link][example].
+[link1][example].
 
   [example]: https://davidmc1948.github.io/test/
   
