@@ -1,6 +1,4 @@
-# Heading
-
-XYZ
+# Home Page
 
 [link1](https://davidmc1948.github.io/test/)
 
