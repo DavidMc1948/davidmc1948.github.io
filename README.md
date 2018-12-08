@@ -2,10 +2,8 @@
 
 XYZ
 
-[link1][example].
+[link1](https://davidmc1948.github.io/test/)
 
-  [example]: https://davidmc1948.github.io/test/
-
-[link2][example2].
-
-  [example2]: https://davidmc1948.github.io/Chapter%2001.html
+[link2](https://davidmc1948.github.io/Chapter%2001.html)
+  
+  [Another page](/test.html)
