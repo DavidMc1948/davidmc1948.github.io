@@ -1,3 +1,9 @@
+---
+layout: page
+---
+
 # Hello Universe
 
-Text. 
+## Small heading
+
+Text.
