@@ -2,5 +2,5 @@
   link: /
 - name: About
   link: /about.html
-- name: Tesfile
+- name: Testfile
   link: _dir1/testfile.html
