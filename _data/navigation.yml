@@ -6,5 +6,5 @@
   link: /dir1/testfile.html
 - name: Page List
   link: /pagelist.html
-- name: /PDF list
+- name: PDF list
   link: /pdf_file_list.html
