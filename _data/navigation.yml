@@ -3,6 +3,6 @@
 - name: About
   link: /about.html
 - name: Testfile
-  link: /dir1/testfile.
+  link: /dir1/testfile.html
 - name: Page List
   link: /pagelist.html
