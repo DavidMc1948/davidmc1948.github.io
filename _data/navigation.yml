@@ -3,4 +3,7 @@
 - name: About
   link: /about.html
 - name: Testfile
-  link: /dir1/testfile.html
+  link: /dir1/testfile.
+- name: Page List
+   link: /pagelist.html
+     
