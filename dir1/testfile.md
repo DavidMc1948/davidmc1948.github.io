@@ -1,6 +1,6 @@
 ---
 layout: default
-title: testfile
+title: Testfile
 ---
 
 # heading

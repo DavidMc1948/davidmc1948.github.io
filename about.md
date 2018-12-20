@@ -4,4 +4,4 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+As it is at the moment this is a handy website for automatically listing web pages. 
