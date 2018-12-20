@@ -5,5 +5,4 @@
 - name: Testfile
   link: /dir1/testfile.
 - name: Page List
-   link: /pagelist.html
-     
+  link: /pagelist.html
