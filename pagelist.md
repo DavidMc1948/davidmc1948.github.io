@@ -7,6 +7,6 @@ title: Page List
 
 {% for post in site.pages %}
   {% if post.title %}
- <li><a href="{{site.baseurl}}/{{ post.url }}">{{post.title}}</a></li>
+ <li><a href="{{site.url}}/{{ post.url }}">{{post.title}}</a></li>
    {% endif %}
 {% endfor %}
