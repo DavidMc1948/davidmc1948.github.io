@@ -9,3 +9,9 @@ header_pages:
   - index.html
   - pagelist.md
   - pdf_file_list.md
+
+defaults:
+    - scope:
+        path: "assets/pdf"
+      values:
+        image: true
