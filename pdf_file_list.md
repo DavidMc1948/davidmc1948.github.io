@@ -11,3 +11,8 @@ I still have to figure out how to do proper links
 {% for myimage in image_files %}
   {{ myimage.path }}
 {% endfor %}
+
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+<a href="{{ myimage.path }}>">{{myimage}}</a>
+{% endfor %}
