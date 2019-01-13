@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">f335e802-f83c-4dfd-a05e-b579f1a7dd8d</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f335e802-f83c-4dfd-a05e-b579f1a7dd8d</dc:identifier>
+        <dc:title>Capital, Vol. 2</dc:title>
+        <dc:creator opf:file-as="Marx, Karl" opf:role="aut">Karl Marx</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T00:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Volume: 2 Publisher: Chicago, C.H. Kerr Publication date: 1908 Subjects: Capital Economics Socialism Notes: This is an OCR reprint. There may be typos or missing text. There are no illustrations or indexes. When you buy the General Books edition of this book you get free trial access to Million-Books.com where you can select from more than a million books for free. You can also preview the book there. &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Karl Marx was born in 1818 in Trier, Germany and studied in Bonn and Berlin. Influenced by Hegel, he later reacted against idealist philosophy and began to develop his own theory of historical materialism. He related the state of society to its economic foundations and mode of production, and recommended armed revolution on the part of the proletariat. Together with Engels, who he met in Paris, he wrote the Manifesto of the Communist Party. He lived in England as a refugee until his death in 1888, after participating in an unsuccessful revolution in Germany. Ernst Mandel was a member of the Belgian TUV from 1954 to 1963 and was chosen for the annual Alfred Marshall Lectures by Cambridge University in 1978. He died in 1995 and the Guardian described him as 'one of the most creative and independent-minded revolutionary Marxist thinkers of the post-war world.' &lt;/p&gt;</dc:description>
+        <dc:publisher>General Books LLC</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
